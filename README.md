@@ -4,6 +4,8 @@
   </a><br>
 </div>
 
+<h2 dir="auto"></h2>
+<h3 align="center">Estatísticas:</h3>
 <!-- <h1 align="center"> 
   Trybe
 </h1>
@@ -42,7 +44,6 @@
 
 <div align="center">
   
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
