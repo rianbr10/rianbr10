@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Olá, me chamo <a href="https://www.linkedin.com/in/rian-brunelli//"><i>Rian</i></a> 😃️</h1>
+  <h1 align="center">Olá, me chamo Rian</a> 😃️</h1>
   <p align="center">Sou formado em Análise e desenvolvimento de sistemas e sou apaixonado por tecnologia 👨‍💻. Quando tinha 16 anos criei uma Startup de desenvolvimento de games, eu era o programador e meu amigo o design, em apenas 2 games 👾 desenvolvidos conseguimos mais de 1.500.000 de downloads. 
   </a><br>
 </div>
