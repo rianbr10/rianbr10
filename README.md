@@ -1,6 +1,6 @@
 <div>
-  <h1 align="center">Olá, me chamo Rian</a> 😃️</h1>
-  <p align="center">Sou formado em Análise e desenvolvimento de sistemas e sou apaixonado por tecnologia 👨‍💻. Quando tinha 16 anos criei uma Startup de desenvolvimento de games, eu era o programador e meu amigo o design, em apenas 2 games 👾 desenvolvidos conseguimos mais de 1.500.000 de downloads. 
+  <h1 align="center">Hi, my name is Rian</a> 😃️</h1>
+  <p align="center">I have a degree in Systems Analysis and Development and I am passionate about technology 👨‍💻. When I was 16 years old I created a game development Startup, in just 2 games 👾 developed we got more than 1,500,000 downloads. 
   </a><br>
 </div>
 
